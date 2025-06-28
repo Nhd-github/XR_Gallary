@@ -5,7 +5,7 @@ This project was developed using Unity 6 LTS with a focus on creating an interac
 We started by installing a few essential packages from the Unity Package Manager:
 
 - AR Foundation: the core library for building cross-platform AR experiences  
-- ARCore XR Plugin: needed for running the app on Android  
+
 - Universal Render Pipeline (URP): used to improve the rendering quality of the AR content  
 - TextMeshPro: for displaying high-quality text descriptions next to characters
 
