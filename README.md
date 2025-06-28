@@ -17,7 +17,6 @@ Each character also comes with a floating text description. To make the text alw
 
 We also used a PlaneClassifier.cs script to ignore any planes that aren’t usable — like vertical walls or downward-facing surfaces. Only horizontal upward-facing planes below 1.2 meters are accepted, ensuring our content is placed on real ground surfaces.
 
-Finally, we configured URP to support camera background rendering and deployed the whole app to ARCore-compatible Android devices. The entire project is hosted on GitHub and can be accessed at:
 
 https://github.com/Nhd-github/XR_Gallary
 
